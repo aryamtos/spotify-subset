@@ -4,7 +4,7 @@ The 'Subset Spotify' includes file names from the Spotify Dataset (Tanaka et al.
 
 ### Segmentation File
 
-The information regarding the track (music, female voice, male voice, and silence) and duration were segmented using the inaSpeechSegmenter available at  ‣ . The file segmentation_files_type.csv presents the following information:
+The information regarding the track (music, female voice, male voice, and silence) and duration were segmented using the inaSpeechSegmenter available at (https://github.com/ina-foss/inaSpeechSegmenter) . The file segmentation_files_type.csv presents the following information:
 
 - filename - the name of the original file
 - type: whether it contains music, female voice, male voice, or silence
