@@ -1,6 +1,6 @@
 # Spotify Subset
 
-The 'Subset Spotify' includes file names from the Spotify Dataset (Tanaka et al. (2022)) for classifying language variations in Brazilian Portuguese. The selection of file names resulted from applying a filter to the original dataset metadata, focusing on idiomatic expressions and names or acronyms of locations.
+The 'Spotify Subset' includes file names from the Spotify Dataset (Tanaka et al. (2022)) for classifying language variations in Brazilian Portuguese. The selection of file names resulted from applying a filter to the original dataset metadata, focusing on idiomatic expressions and names or acronyms of locations.
 
 ### Segmentation File
 
