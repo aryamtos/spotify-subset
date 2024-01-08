@@ -2,9 +2,9 @@
 
 The 'Spotify Subset' includes file names from the Spotify Dataset (Tanaka et al. (2022)) for classifying language variations in Brazilian Portuguese. The selection of file names resulted from applying a filter to the original dataset metadata, focusing on idiomatic expressions and names or acronyms of locations.
 
-### Segmentation File
-
-The information regarding the track (music, female voice, male voice, and silence) and duration were segmented using the inaSpeechSegmenter available at (https://github.com/ina-foss/inaSpeechSegmenter) . The file segmentation_files_type.csv presents the following information:
+<h2>Spotify A subset</h2>
+<h3>Segmentation File</h3>
+The information regarding the track (music, female voice, male voice, and silence) and duration were segmented using the inaSpeechSegmenter available at (https://github.com/ina-foss/inaSpeechSegmenter) . The file 'segmentation_files_spotifyA.csv' presents the following information:
 
 - filename - the name of the original file
 - type: whether it contains music, female voice, male voice, or silence
@@ -15,9 +15,9 @@ The information regarding the track (music, female voice, male voice, and silenc
 - region: the Brazilian region
 - info: whether the audio contains only the capital city or municipalities and the capital city.
 
-### Original File
+<h3>Identifiers</h3> 
 
-The original file "original_files_ogg_spotify_dataset" contains general information about the audio files.
+The file "ids_spotifyA.csv" contains general information about the audio files.
 
 - filename - the name of the original file
 - duration - the audio duration
@@ -25,3 +25,9 @@ The original file "original_files_ogg_spotify_dataset" contains general informat
 - local - the location of the speakers
 - state - the state abbreviation
 - region - the Brazilian region
+
+<h2>Spotify B subset</h2>
+
+
+
+
