@@ -4,7 +4,9 @@ The 'Spotify Subset' includes file names from the Spotify Dataset (Tanaka et al.
 
 <h2> Spotify A subset</h2>
 
+
 <h3>General Table</h3>
+
 
 | Speakers| Duration | Episodes | Female | Male |
 | --- | --- | --- | --- | --- |
@@ -12,6 +14,7 @@ The 'Spotify Subset' includes file names from the Spotify Dataset (Tanaka et al.
 
 
 <h3>Subset A Information</h3>
+
 
 | Accent | Speaker | Duration | Female | Male |
 | --- | --- | --- | --- | --- |
@@ -28,6 +31,9 @@ The 'Spotify Subset' includes file names from the Spotify Dataset (Tanaka et al.
 <h2>Spotify B subset</h2>
 
 </hr>
+
+
+<h3>General Table</h3>
 
 | Accent | Train_speakers | Dev_speakers | Test_speakers | Podcasts | Episodes | Duration| segments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
