@@ -7,7 +7,7 @@ The 'Spotify Subset' includes file names from the Spotify Dataset (Tanaka et al.
 
 | Accent | Train_speakers | Dev_speakers | Test_speakers | Podcasts | Episodes | Hours | segments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RE | 69 | 23 | 10 | 15 | 57 | ~48.23 | 14,008 |
+| RE | 69 | 23 | 11 | 15 | 57 | ~48.23 | 14,008 |
 | SP | 52 | 18 | 15 | 11 | 78 | ~30.88 | 11,906 |
 
 
