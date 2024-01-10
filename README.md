@@ -11,7 +11,7 @@ The 'Spotify Subset' includes file names from the Spotify Dataset (Tanaka et al.
 | 92 | ~15hrs 24 min | 52 | 43 | 38 |
 
 
-
+<h3>Subset A Information</h3>
 | Accent | Speaker | Duration | Female | Male |
 | --- | --- | --- | --- | --- |
 | Rio de Janeiro | 5 | 49 min | 2 | 3 |
@@ -25,6 +25,8 @@ The 'Spotify Subset' includes file names from the Spotify Dataset (Tanaka et al.
 
 
 <h2>Spotify B subset</h2>
+
+</hr>
 
 | Accent | Train_speakers | Dev_speakers | Test_speakers | Podcasts | Episodes | Duration| segments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
