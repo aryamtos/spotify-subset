@@ -12,16 +12,16 @@ General Table
 
 
 
-| Local | Locutor | Duração
+| Local | Locutor | Duração | Feminino | Masculino |
 | --- | --- | --- | --- | --- |
-| Rio de Janeiro | 5 | 49 min | 2 | 3 |
-| Bahia | 4 | 1hr 27 min | 4 |  |
-| Mato Grosso do Sul | 4 | 18 min | 3 | 1 |
-| Maranhão | 7 | 1hr 18 min | 2 | 3 |
-| Minas Gerais | ~35 | 5hrs 23 min | ~13 | ~22 |
-| Recife | 10 | 3hrs 45 min |  |  |
-| São Paulo | ~25 | 1hr 18 min | ~19 | ~7 |
-| Rio Grande do Sul | 2 | ~53 min |  | 2 |
+| Rio de Janeiro | 5 | 49 min | 
+| Bahia | 4 | 1hr 27 min |
+| Mato Grosso do Sul | 4 | 18 min |
+| Maranhão | 7 | 1hr 18 min | 
+| Minas Gerais | ~35 | 5hrs 23 min |
+| Recife | 10 | 3hrs 45 min | 
+| São Paulo | ~25 | 1hr 18 min |
+| Rio Grande do Sul | 2 | ~53 min |  
 
 
 <h2>Spotify B subset</h2>
